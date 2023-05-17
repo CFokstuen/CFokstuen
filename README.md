@@ -32,4 +32,4 @@ If you have any questions, suggestions, or collaboration opportunities, feel fre
 #
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CFokstuen&theme=radical)](https://github.com/anuraghazra/github-readme-stats), [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CFokstuen&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-![](https://komarev.com/ghpvc/?username=CFokstuen)
+![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
