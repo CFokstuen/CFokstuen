@@ -1,4 +1,4 @@
-# Section 1
+#
 Greetings,
 # Section 2
 I can describe myself within the context of this platform as a current Master/post graduate student and a aspiring web developer.
