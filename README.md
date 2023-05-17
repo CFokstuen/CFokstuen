@@ -21,8 +21,7 @@ I'm actively working on personal projects to apply and showcase my skills. You c
 
 ## Contact Me
 
-If you have any questions, suggestions, or collaboration opportunities, feel free to reach out to me. You can contact me via email at [your-email@example.com](mailto:your-email@example.com) or connect with me on [LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/carl-fokstuen-628a0197/)).
-
+If you have any questions, suggestions, or collaboration opportunities, feel free to reach out to me. You can contact me via email at [your-email@example.com](mailto:your-email@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/carl-fokstuen-628a0197/).
 Let's connect and build something awesome together!
 #
 ![c32bf027-0480-4d8c-aafa-679078cf1f56](https://github.com/CFokstuen/CFokstuen/assets/118830275/c8ccf8bf-c6cb-4231-8080-961550af3dbe)
