@@ -13,7 +13,7 @@ I'm a Master's/postgraduate student and an aspiring web developer. With a strong
 
 I'm passionate about web development and enjoy immersing myself in various programming languages and technologies. I believe in the power of continuous learning and enjoy exploring new frameworks, libraries, and tools to expand my knowledge and skillset.
 
-Currently, I'm focused on honing my skills in front-end development, but I also have a growing interest in backend technologies. I enjoy building responsive and intuitive web interfaces, and I strive to create user experiences that are both enjoyable and intuitive.
+Currently, I'm focused on honing my skills in front-end development, but I also have a growing interest in backend technologies. I enjoy building responsive web interfaces, and I aspire to create user experiences that are both enjoyable and intuitive.
 
 ## Projects
 
