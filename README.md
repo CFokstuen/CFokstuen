@@ -13,11 +13,11 @@ I'm a Master's/postgraduate student and an aspiring web developer. With a strong
 
 I'm passionate about web development and enjoy immersing myself in various programming languages and technologies. I believe in the power of continuous learning and enjoy exploring new frameworks, libraries, and tools to expand my knowledge and skillset.
 
-Currently, I'm focused on honing my skills in front-end development, but I also have a growing interest in backend technologies. I enjoy building responsive and intuitive web interfaces, and I strive to create delightful user experiences through my work.
+Currently, I'm focused on honing my skills in front-end development, but I also have a growing interest in backend technologies. I enjoy building responsive and intuitive web interfaces, and I strive to create user experiences that are both enjoyable and intuitive.
 
 ## Projects
 
-I'm actively working on personal projects to apply and showcase my skills. You can check out some of my projects on my GitHub repositories.
+I'm actively working on personal projects to apply that advances a deeper understanding of development technologies and languages.
 
 ## Contact Me
 
@@ -32,4 +32,4 @@ If you have any questions, suggestions, or collaboration opportunities, feel fre
 #
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CFokstuen&theme=radical)](https://github.com/anuraghazra/github-readme-stats), [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CFokstuen&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-![](https://komarev.com/ghpvc/?username=CFokstuen&color=ff3385)
+![](https://komarev.com/ghpvc/?username=CFokstuen&color=e6005c)
