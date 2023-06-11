@@ -1,6 +1,6 @@
-# Greetings! 👋
+# Greetings!
 
-I'm a Master's/postgraduate student and an aspiring web developer. With a strong curiosity and a broad worldview, I embrace new experiences and constantly seek out challenges.
+I'm a Master's/postgraduate student in information technology. With a strong curiosity and a broad worldview, I embrace new experiences and constantly seek out challenges.
 
 ## Skills
 
@@ -11,17 +11,16 @@ I'm a Master's/postgraduate student and an aspiring web developer. With a strong
 
 ## About Me
 
-I'm passionate about web development and enjoy immersing myself in various programming languages and technologies. I believe in the power of continuous learning and enjoy exploring new frameworks, libraries, and tools to expand my knowledge and skillset.
+As an emmerging technologist, I believe in the power of continuous learning and enjoy exploring new languages, frameworks, libraries, and tools to expand my knowledge and skillset.
 
-Currently, I'm focused on honing my skills in front-end development, but I also have a growing interest in backend technologies. I enjoy building responsive web interfaces, and I aspire to create user experiences that are both enjoyable and intuitive.
 
 ## Projects
 
-I'm actively working on personal projects to apply that advances a deeper understanding of development technologies and languages.
+I'm actively working on project-based learning and personal projects, in addition to the demands of tertiary study requirements, that advances a deeper understanding of development technologies and languages.
 
 ## Contact Me
 
-If you have any questions, suggestions, or collaboration opportunities, feel free to reach out to me. You can contact me via email at [carl.fokstuen@hotmail.com](mailto:carl.fokstuen@hotmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/carl-fokstuen-628a0197/).
+If you have any questions, suggestions, or collaboration opportunities, feel free to reach out to me. You can contact me via email at [carl.fokstuen@hotmail.com](mailto:carl.fokstuen@hotmail.com) or connect with me on [Linkedin](https://www.linkedin.com/in/carl-fokstuen-628a0197/).
 
 #
 ![c32bf027-0480-4d8c-aafa-679078cf1f56](https://github.com/CFokstuen/CFokstuen/assets/118830275/c8ccf8bf-c6cb-4231-8080-961550af3dbe)
