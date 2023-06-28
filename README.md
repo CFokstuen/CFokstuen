@@ -12,13 +12,8 @@
 ![c32bf027-0480-4d8c-aafa-679078cf1f56](https://github.com/CFokstuen/CFokstuen/assets/118830275/c8ccf8bf-c6cb-4231-8080-961550af3dbe)
 # 
 <a href="https://github.com/CFokstuen">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=CFokstuen" />
-</a>
-<a href="https://github.com/CFokstuen">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CFokstuen&layout=compact&langs_count=8&card_width=320" />
-</a>
-<a href="https://github.com/CFokstuen">
   <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=CFokstuen&show_icons=true" />
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CFokstuen&langs_count=8&layout=compact&card_width=320" />
 </a>
 
 
