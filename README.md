@@ -11,5 +11,10 @@
 #
 ![c32bf027-0480-4d8c-aafa-679078cf1f56](https://github.com/CFokstuen/CFokstuen/assets/118830275/c8ccf8bf-c6cb-4231-8080-961550af3dbe)
 # 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=CFokstuen&langs_count=5&theme=tokyonight)]()
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?CFokstuen=anuraghazra" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?CFokstuen=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a>
 
