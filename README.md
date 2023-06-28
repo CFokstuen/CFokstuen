@@ -10,5 +10,6 @@
 
 #
 ![c32bf027-0480-4d8c-aafa-679078cf1f56](https://github.com/CFokstuen/CFokstuen/assets/118830275/c8ccf8bf-c6cb-4231-8080-961550af3dbe)
-
+# 
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=CFokstuen&langs_count=5&theme=tokyonight)]()
 
