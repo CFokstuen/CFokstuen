@@ -15,7 +15,7 @@
   <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=CFokstuen&hide_rank=true&show_icons=true&theme=radical"  />
 </a>
 <a href="https://github.com/CFokstuen">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CFokstuen&langs_count=8&theme=radical"" />
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CFokstuen&langs_count=8&theme=radical" width="500px" />
 </a>
 
 
